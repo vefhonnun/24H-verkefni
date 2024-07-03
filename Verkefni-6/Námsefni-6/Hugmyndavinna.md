@@ -1,6 +1,12 @@
 # Hugmyndavinna
 
-Eins og fram kemur í verklýsingu er _efnisval frjálst_, hér er sýnishorn af hvað hægt er að fjalla um. Það má nota þennan texta, breyta og bæta. _Gerið svo vel._
+Eins og fram kemur í verklýsingu er _efnisval frjálst_, gott er að byrja snemma að finna hugmynd að lokaverkefninu. 
+
+Github býður upp á að nota verkefna- og skipulagstól sem nefnist ` Project `. Það fylgir öllum Github geymslum (_repositories_). 
+
+---
+
+hér er sýnishorn af hvað hægt er að fjalla um. Það má nota þennan texta, breyta og bæta. _Gerið svo vel._
 
 ![svg friðarlógó](Peace.svg)
 
