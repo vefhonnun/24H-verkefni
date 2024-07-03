@@ -14,7 +14,6 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 1. Kviktákn (_loader symbol_)  
 1. Mælistika (_progress bar_)
-   https://www.codingnepalweb.com/button-progress-bar-html-css-javascript/
 
 
 * Notið eftirfarandi CSS eigindi eftir þörfum
