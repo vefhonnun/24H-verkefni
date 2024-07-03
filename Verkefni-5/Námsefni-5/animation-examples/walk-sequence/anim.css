@@ -8,8 +8,8 @@
 #walk-container {
 	display: inline-block;
 	position: relative;
-	width: 20%;
-	padding-bottom: 30%; 
+	/*width: 20%;*/
+	padding-bottom: 2rem; 
 	vertical-align: middle; 
 	overflow: hidden; 
   animation: stroll 30s linear infinite;
