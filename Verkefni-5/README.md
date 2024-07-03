@@ -2,12 +2,17 @@
 
 Þó svo að vefsíður séu að upplagi eins og bækur eða tímarit þá er vel hægt að lífga upp á vefsíður með nettum stuðningshreyfingum og það er hægt að láta forsíður birtast með tilþrifum á skjáinn til að fanga athygli notandans. 
 
+## Áríðandi tilkynning
+
+Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. verkefni. Tilkynningin á að renna yfir skjáinn frá hægri til vinstri.
+
+
+
 ## kviktákn (_animated symbol_)
 
-Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er gert með tákni sem hreyfist eða mælistiku (_progress bar_) sem fyllist.
+Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er hægt að gera með tákni sem hreyfist eða mælistiku (_progress bar_) sem fyllist.
 
-1. Kviktákn (_loader symbol_) 
-   https://www.codingnepalweb.com/animated-loader-in-html-css/
+1. Kviktákn (_loader symbol_)  
 1. Mælistika (_progress bar_)
    https://www.codingnepalweb.com/button-progress-bar-html-css-javascript/
 
