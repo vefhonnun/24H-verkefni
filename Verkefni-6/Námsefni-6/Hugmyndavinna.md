@@ -6,9 +6,13 @@ Github býður upp á að nota verkefna- og skipulagstól sem nefnist ` Projects
 
 ![projects](project.jpg)
 
+Safnið saman hugmyndum, texta og myndum. Veljið síðan úr bestu hugmyndina þegar nær dregur að undirbúningsvinnunni.
+
+![project2](project2.jpg)
+
 ---
 
-hér er sýnishorn af hvað hægt er að fjalla um. Það má nota þennan texta, breyta og bæta. _Gerið svo vel._
+Hér er sýnishorn af hvað hægt er að fjalla um. Það má nota þennan texta sem grunn undir lokaverkefni, breytið og bætið umfjöllunarefnið að eigin smekk. _Gerið svo vel._
 
 ![svg friðarlógó](Peace.svg)
 
