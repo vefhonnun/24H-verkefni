@@ -3,6 +3,7 @@
 1. Skipurit (_Site map_)
 1. Tengirammi (_Wireframe_)
 1. Letur- og litasamsetning
+1. Flæðirit
 
 Þegar byrjað er á að hanna vef þarf að skipuleggja innihald vefsins og hvernig samkskipti við notendur eiga að fara fram.
 
@@ -33,7 +34,6 @@ Næsta skref er að teikna upp skipulag á blaði sem sýnir aðeins staðsetnin
 ![Tengirammi](wireframe/Wireframe.svg)
 
 * [Mermaid diagram chart](https://mermaid.js.org/)
-* [Draw.io](https://draw.io)
 
 
 ## Stílbragð (_Style tyle_)
@@ -44,6 +44,15 @@ Síðan þarf að ákveða hvaða grunnlitir, tákn og leturgerðir eru notaðir
 
 * [Litahringurinn](https://color.adobe.com/create/color-wheel/)
   * [Color Contrast Analyzer](https://color.adobe.com/create/color-contrast-analyzer)
+
+
+## Flæðirit (_Flowchart_)
+
+Flæðirit sýnir hvernig samskipti notanda og netþjóns eiga að fara fram.
+
+![Fowchart](flowchart/flowChart.drawio.svg)
+
+* [Draw.io](https://draw.io)
 
 ---
 
