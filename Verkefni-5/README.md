@@ -1,16 +1,16 @@
-# Kvikun 
+# Kvikun (í vinnslu)
 
 Þó svo að vefsíður séu að upplagi eins og bækur eða tímarit þá er vel hægt að lífga upp á vefsíður með nettum stuðningshreyfingum og það er hægt að láta forsíður birtast með tilþrifum á skjáinn til að fanga athygli notandans. 
 
-![kvikun](Námsefni-5/animation-examples/walk-sequence/walk-sequence.svg)
+## kviktákn (_animated symbol_)
 
-1. Búðu til tilkynningu eða auglýsingu og settu hana á vefsíðuna sem þú gerðir í síðasta verkefni.
+Þegar stór efnisskrá hleðst inn (_download_) af netþjóni þá getur verið gott að sýna notanda að samskipti eiga sér stað. Það er gert með tákni sem hreyfist eða mælistiku (_progress bar_) sem fyllist.
 
-### Undirbúningur 
+1. Kviktákn (_loader symbol_) 
+   https://www.codingnepalweb.com/animated-loader-in-html-css/
+1. Mælistika (_progress bar_)
+   https://www.codingnepalweb.com/button-progress-bar-html-css-javascript/
 
-* gott er að skissa og/eða skrifa lýsingu á því hvað þú ætlar að framkvæma áður en þú byrjar á að kóða
-
-### Kóðun
 
 * Notið eftirfarandi CSS eigindi eftir þörfum
   * _„transition“_  
@@ -18,7 +18,7 @@
   * _„animation“_
   * Útfærslan er í ykkar höndum.  
 
-#### Lausnin á að vera í HTML og CSS 
+> Lausnin á að vera CSS kvikun, ekki javascript lausn 
 
 ### Bjargir
 
