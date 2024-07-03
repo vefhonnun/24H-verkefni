@@ -2,7 +2,9 @@
 
 Eins og fram kemur í verklýsingu er _efnisval frjálst_, gott er að byrja snemma að finna hugmynd að lokaverkefninu. 
 
-Github býður upp á að nota verkefna- og skipulagstól sem nefnist ` Project `. Það fylgir öllum Github geymslum (_repositories_). 
+Github býður upp á að nota verkefna- og skipulagstól sem nefnist ` Projects `. Það fylgir öllum Github geymslum (_repositories_). 
+
+![projects](project.jpg)
 
 ---
 
