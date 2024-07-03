@@ -15,6 +15,7 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 1. Kviktákn (_loader symbol_)  
 1. Mælistika (_progress bar_)
 
+#### [Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
 
 * Notið eftirfarandi CSS eigindi eftir þörfum
   * _„transition“_  
