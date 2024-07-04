@@ -1,4 +1,6 @@
-# SVG vigurteikning - _Vector graphics_
+# SVG vigurteikning - _Scalable Vector Graphics_
+
+Vigurteikning er XML vektormyndasnið til að skilgreina tvívíddar grafík. Vigurteikningar eru notaðar í öllum leturgerðum (_fonts_) í tölvunni þinni og flest táknin sem þú sérð í símanum þínum eru vigurteikningar.
 
 ![SVG lógó](Námsefni-4/SVG-symbol/Nlogo.svg)
 
