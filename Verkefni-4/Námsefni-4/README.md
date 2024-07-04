@@ -10,7 +10,7 @@
 * [Icomoon táknletur](https://icomoon.io/)
 * [How to use Icomoon fonts](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
 
-Þegar vefsíða Icomoon er opnuð veldu þá _IcoMoon App_, þá ferðu inn á síðu þar sem þú getur valið tákn sem þú villt nota.
+Þegar vefsíða Icomoon er opnuð veldu þá ` IcoMoon App `, þá ferðu inn á síðu þar sem þú getur valið tákn sem þú villt nota.
 
 ![icomoon](icomoon1.jpg)
 
