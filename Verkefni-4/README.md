@@ -15,12 +15,7 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 
 - [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
 
-### SVG Bjargir
-
-* [Using SVG](https://css-tricks.com/using-svg/)
-* [Icomoon leturtákn ](https://icomoon.io/)
-* [How to use Icomoon font](http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/)
-* [SVG firmamerki](https://svgporn.com/) 
+### [Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#l%C3%ADnuteikning---scalable-vector-graphics)
 
 ### Námsmat 14%:  
 
