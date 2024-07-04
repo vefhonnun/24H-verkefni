@@ -17,13 +17,14 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 
 ### Bjargir
 
-- [GH Wiki](https://github.com/vefhonnun/24H-verkefni/wiki#l%C3%ADnuteikning---scalable-vector-graphics)
+- [GH Wiki, vigurteiknging](https://github.com/vefhonnun/24H-verkefni/wiki#l%C3%ADnuteikning---scalable-vector-graphics)
 
 
 ### Lesefni
 
 * [SVG on the Web](https://svgontheweb.com/)
 * [Using SVG](https://css-tricks.com/using-svg/)
+* [What is an icon font?](https://designshack.net/articles/typography/what-is-an-icon-font/)
 
 ### Námsmat 14%:  
 
