@@ -2,9 +2,13 @@
 
 ![SVG lógó](Námsefni-4/SVG-symbol/Nlogo.svg)
 
-Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefsíðu. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. Lógóið er hægt að teikna í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
+Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefsíðu. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. 
+
+Lógóið er hægt að teikna í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
 
 ## Icomoon táknletur
+
+Táknletur er safn tákna sem hefur verið sett í leturgerð (_font_) og hægt er að nota á sama hátt og aðrar leturgerðir í vafra. Helstu ástæðurnar fyrir því að nota táknletur eru að þú getur breytt stærð, lit, lögun á auðveldan hátt, `font-size:` og `color:`. 
 
 Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera það á [Icomoon.io](https://icomoon.io/) vefsíðunni.  Eftir að hafa flutt táknin yfir til ykkar. Þá er hægt að meðhöndla það eins og venjulega leturfjöldskyldu (font-family) á vefsíðu. Notið táknin í efnisyfirlitið og &lt;footer> félagsmiðlatengla (_Social Media_).  
 
