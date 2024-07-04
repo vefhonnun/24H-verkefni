@@ -19,19 +19,20 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 
 ### Bjargir
 
-- [GH Wiki, vigurteiknging](https://github.com/vefhonnun/24H-verkefni/wiki#l%C3%ADnuteikning---scalable-vector-graphics)
+- [GH Wiki, vigurteikningar](https://github.com/vefhonnun/24H-verkefni/wiki#l%C3%ADnuteikning---scalable-vector-graphics)
 
 
 ### Lesefni
 
+* [Wikipedia - SVG](https://en.wikipedia.org/wiki/SVG)
 * [SVG on the Web](https://svgontheweb.com/)
 * [Using SVG](https://css-tricks.com/using-svg/)
-* [What is an icon font?](https://designshack.net/articles/typography/what-is-an-icon-font/)
+* [What is an Icon Font?](https://designshack.net/articles/typography/what-is-an-icon-font/)
 
 ### Námsmat 14%:  
 
 - 50% SVG tákn - lógó teiknað í vektor teikniforriti (_inkScape_)
-- 25% Icomoon táknletur með innfluttu tákni
+- 25% Icomoon táknletur (_iconfont_) með innfluttu tákni
 - 25% Táknletur sett í HTML síðu. Mismunandi tákn í efnisyfirliti og &lt;header>
 
 #### Verkefnaskil
