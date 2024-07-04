@@ -1,5 +1,7 @@
 # SVG vigurteikning - _Vector graphics_
 
+![SVG lógó](Námsefni-4/SVG-symbol/Nlogo.svg)
+
 Búið til einfalt SVG firmamerki (logo),  og setjið það inn á vefsíðu. Firmamerkið á að  vera staðsett efst á vefsíðunni. Látið lógóið skalast eftir viðmiðunarmörkum (breakpoints) í stílsíðu. Lógóið er hægt að teikna í [InkScape](https://inkscape.org/release/inkscape-1.2.2/) vektorteikniforritinu
 
 ## Icomoon táknletur
