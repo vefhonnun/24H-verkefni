@@ -15,7 +15,15 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 
 - [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
 
-### [Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#l%C3%ADnuteikning---scalable-vector-graphics)
+### Bjargir
+
+- [GH Wiki](https://github.com/vefhonnun/24H-verkefni/wiki#l%C3%ADnuteikning---scalable-vector-graphics)
+
+
+### Lesefni
+
+* [SVG on the Web](https://svgontheweb.com/)
+* [Using SVG](https://css-tricks.com/using-svg/)
 
 ### Námsmat 14%:  
 
