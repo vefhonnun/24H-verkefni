@@ -13,22 +13,13 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 1. Kviktákn (_loader symbol_)  
 1. Mælistika (_progress bar_)
 
-#### [Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
-
 * Notið eftirfarandi CSS eigindi eftir þörfum
   * _„transition“_  
   * _„transform“_ 
   * _„animation“_
   * Útfærslan er í ykkar höndum.  
 
-> Lausnin á að vera CSS kvikun, ekki javascript lausn 
-
-### Bjargir
-
-* [vefhönnun/Wiki/kvikun](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
-
-1. [Skjáskvetta - Splash!](https://speckyboy.com/splash-screen-design/)
-
+#### [Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
 
 #### Námsmat 14%
 
