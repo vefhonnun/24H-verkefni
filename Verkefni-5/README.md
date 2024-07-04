@@ -21,11 +21,13 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 #### [Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
 
+#### [Lesefni](https://bok.vefforritun.is/19.kvikun)
+
 #### Námsmat 14%
 
-- Mynd kemur inn á skjá frá hægri á undan lógói
-- Lógó þysjar inn (zoom in), kemur á eftir mynd
-- Texti á hreyfingu, hreyfing endurtekin viðstöðulaust (infinite)
+- 3% Texti á hreyfingu, hreyfing endurtekin viðstöðulaust (infinite)
+- 3% Kviktákn birtist þegar stórt skjal er hlaðið inn í vafra
+- 8% Tímaverkefni
 
 #### Vekefnaskil
 
