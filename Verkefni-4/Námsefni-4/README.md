@@ -18,8 +18,14 @@
 
 ![icomoon](icomoon.jpg)
 
+Þegar táknin sem þú villt nota eru valin þá smellir þú á ` Generate Font F `
+
 ![icomoon](icomoon2.jpg)
 
+þá sérðu táknin með ID auðkenni og þar er sýnt hvernig hægt er að birta táknin á vefsíðu í gegnum CSS `<> Get Code `. Því næst sækir (_Download_) þú táknletrið á tölvuna þína.
+
 ![icomoon](icomoon3.jpg)
+
+Við notum síðan leturgerðina sem er í _fonts_ möppunni og stílsíðuna _style.css_.
 
 ![icomoon](icomoon4.jpg)
