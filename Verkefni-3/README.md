@@ -26,6 +26,10 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 * [Complex Selectors](Námsefni-3/README.md)
 * [Transition og transform](Námsefni-3/Transition-Transform.md)
 
+#### Lesefni
+
+* [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+
 ### Námsmat, lykilmatsþáttur 20%
 
 #### Æfingaverkefni 12%
@@ -46,10 +50,3 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 #### Einkunn verður birt í Innu
 
 _Gangi þér vel_
-
-<!-- of mikið efni til að fara yfir má kannski bæt við í lokaverkefni ?
-* 4% Harmonikku-fellilisti í málsgreinum (_Accordion menu_)
-### Fellilisti í málsgreinum (_Accordion menu_)
-
-Fellilisti í málgreinum er kallaður _Accordion menu_ enda dregst hann sundur og saman eins og harmonika. Hann getur verið kóðaður með nánast sama hætti og efnisyfirlitið [Hér er kóðadæmi sem hægt er að fara eftir](https://code-boxx.com/simple-responsive-accordion-pure-css/) og hér er [annað dæmi](https://codepen.io/alvarotrigo/pen/dyJyxQm)
--->

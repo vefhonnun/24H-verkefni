@@ -36,6 +36,5 @@
 
 #### Bjargir
 
-* [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
 * [Harmonikkulisti](https://code-boxx.com/simple-responsive-accordion-pure-css/)
 * [Pop up Modal](https://codepen.io/imprakash/pen/GgNMXO)
