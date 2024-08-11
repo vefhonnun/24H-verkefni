@@ -26,10 +26,6 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 * [Complex Selectors](Námsefni-3/README.md)
 * [Transition og transform](Námsefni-3/Transition-Transform.md)
 
-#### Lesefni
-
-* [Shayhowe, Flóknar stílsetningar - Complex Selectors](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
-
 ### Námsmat, lykilmatsþáttur 20%
 
 #### Æfingaverkefni 12%
