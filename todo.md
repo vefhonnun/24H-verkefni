@@ -1,0 +1,1 @@
+1. ath allar tengingar 24V í 24H
