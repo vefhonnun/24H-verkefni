@@ -27,8 +27,9 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 #### Námsmat 14%
 
-- 3% Texti á hreyfingu, hreyfing endurtekin viðstöðulaust (infinite)
-- 3% Kviktákn birtist þegar stórt skjal er hlaðið inn í vafra
+- 6% Æfingaverkefni
+  - 3% Myndasýning (_slideshow_) með með a.m.k fjórum myndum
+  - 3% Kviktákn (_loader image_) birtist þegar stórt skjal er hlaðið inn í vafra
 - 8% Tímaverkefni
 
 #### Vekefnaskil
