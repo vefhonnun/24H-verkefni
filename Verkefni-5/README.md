@@ -19,9 +19,11 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
   * _„animation“_
   * Útfærslan er í ykkar höndum.  
 
-#### [Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
+#### [GH Wiki](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
 
-#### [Lesefni](https://bok.vefforritun.is/19.kvikun)
+#### Lesefni
+
+* [Kvikun (_Bókin um vefforitun, ÓSK_)](https://bok.vefforritun.is/19.kvikun)
 
 #### Námsmat 14%
 
