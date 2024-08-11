@@ -63,4 +63,7 @@ Sjá nánar hér: [Using CSS custom properties](https://developer.mozilla.org/en
 * [CSS grid dæmi](https://gridbyexample.com/)
 * [CSS tricks, GRID guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-#### [CSS í stærri verkefnum](https://bok.vefforritun.is/22.css-verkefni) (Bókin um vefforitun, ÓSK)
+#### Lesefni
+
+* [CSS í stærri verkefnum](https://bok.vefforritun.is/22.css-verkefni) (_Bókin um vefforritun, ÓSK_)
+
