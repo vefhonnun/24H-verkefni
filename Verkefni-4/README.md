@@ -22,18 +22,7 @@ Setjið saman ykkar eigið táknletur (icon fonts). Það er hægt að gera þa�
 _Veljið tákn sem passa við ykkar efnisyfirlit_
 
 - [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
-
-### Bjargir
-
-- [GH Wiki, vigurteikningar](https://github.com/vefhonnun/24H-verkefni/wiki#l%C3%ADnuteikning---scalable-vector-graphics)
-
-
-### Lesefni
-
-* [Wikipedia - SVG](https://en.wikipedia.org/wiki/SVG)
-* [SVG on the Web](https://svgontheweb.com/)
-* [Using SVG](https://css-tricks.com/using-svg/)
-* [What is an Icon Font?](https://designshack.net/articles/typography/what-is-an-icon-font/)
+- [Námsefni](Námsefni-4/README.md)
 
 ### Námsmat 14%:  
 
