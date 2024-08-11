@@ -62,3 +62,5 @@ Sjá nánar hér: [Using CSS custom properties](https://developer.mozilla.org/en
 * [W3Schools - CSS Grid template](https://www.w3schools.com/cssref/pr_grid-template.asp)
 * [CSS grid dæmi](https://gridbyexample.com/)
 * [CSS tricks, GRID guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+#### [CSS í stærri verkefnum](https://bok.vefforritun.is/22.css-verkefni) (Bókin um vefforitun, ÓSK)
