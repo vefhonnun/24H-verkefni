@@ -69,7 +69,7 @@ Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri
 
 - Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
 
-> Skil á verkefni 2 lokast þegar síðasta kennslutíma verkefnisins er lokið
+> Skil á verkefni 2 lokast þegar kennslustund tímaverkefnis er lokið
 
 #### Einkunn verður birt í Innu
 
