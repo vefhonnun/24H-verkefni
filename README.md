@@ -32,15 +32,15 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 34 | --- | --- |  Vinnurammi - framework | Grid skipulag (RWD) |
-| 35 | CSS variables | **Tímaverkefni 1** | Töflur | Töflur RWD |
-| 36 | Form | Form validation | **Tímaverkefni 2** | Complex selectors 
-| 37 | Drop down & Pop up menu | Accordion menu | **Tímaverkefni 3** | SVG vigurteikningar |  
-| 38 | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni 4** | Kvikun | 
-| 39 | Transform - transition | @keyframe animation | **Tímaverkefni 5** |  --- |
-| 40 | Skipulag (site-map) | Leiðakerfi (wireframe) | (1.maí) |Letur- og litaval |    
-| 41 | Útlitshönnun | Framleiðsla | Framleiðsla | Framleiðsla |
-| 42 | Frágangur | Vefur á Github.io | **Skil 23:59. ---** | _Námsmat_ |
+| 34 | Vinnurammi - framework | Grid skipulag (RWD) |CSS variables | **Tímaverkefni 1** | 
+| 35 | Töflur RWD | Form | Form validation | **Tímaverkefni 2** | 
+| 36 | Complex selectors, Drop down menu | Pop up menu, Accordion menu | **Tímaverkefni 3** |
+| 37 |  SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni 4** |
+| 38 |  Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 5** |
+| 39 |  Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) |
+| 40 | Letur- og litaval |  Útlitshönnun | Framleiðsla | Framleiðsla |  
+| 41 | Framleiðsla | Frágangur | Vefur á Github.io | **Skil 14/10 KL. 23:59** |
+| 42 | _Námsmat_ | --- | --- | --- | --- | 
 
 ### Verklýsing
 
