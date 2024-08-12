@@ -11,22 +11,18 @@
 ## Námsáætlun
 
 #### 2024 haust, spönn 1. -> í vinnslu
-<!--
+
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 10  | HTML & CSS vinnurammi (_framework_)  | 1 | x | x 
-| 11  | HTML & CSS vinnurammi (_framework_)  | 1 | 5 | 9 |
-| 12  | Töflur og form  | 2 | 5 | 9 |
-| 13  | _Páskafrí_ | - | - | - |
-| 14  | Flókin stílbrögð (_Complex selectors_) | 3 | 5 | 9 |
-| 15  | SVG vigurteikningar (_Vector graphics_) | 4 | 5 | 9 |
-| 16  | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
-| 17  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
-| 18  | Undirbúningur / framleiðsla | 6 | - | - |
-| 19  | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
-| 20 | _Síðasti kennsludagur 15. maí_. | | 25 | 45 / 30  |
+| 34  | HTML & CSS vinnurammi (_framework_)  | 1 | 5 | 9 |
+| 35  | Töflur og form  | 2 | 5 | 9 |
+| 36  | Flókin stílbrögð (_Complex selectors_) | 3 | 5 | 9 |
+| 37  | SVG vigurteikningar (_Vector graphics_) | 4 | 5 | 9 |
+| 38  | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
+| 39  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
+| 40 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
+| 41 | _Síðasti kennsludagur 12.10_. | | 25 | 45 / 30  |
 | 21 | _Námsmat_ |   |   | 100  |
--->
 
 ### Vikuáætlun
 
