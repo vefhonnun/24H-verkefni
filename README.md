@@ -37,8 +37,8 @@
 | 36 | Complex selectors, Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 3** |
 | 37 |  SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni 4** |
 | 38 |  Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 5** |
-| 39 |  Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) |
-| 40 | Letur- og litaval |  Útlitshönnun | Framleiðsla | Framleiðsla |  
+| 39 |  Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) | Letur- og litaval |
+| 40 |  Vefhönnun | Framleiðsla | Framleiðsla |  Framleiðsla |  
 | 41 | Framleiðsla | Frágangur | Vefur á Github.io | **Skil 14/10 KL. 23:59** |
 | 42 | _Námsmat_ | --- | --- | --- | --- | 
 
