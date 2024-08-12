@@ -21,7 +21,7 @@
 | 38  | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
 | 39  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
 | 40 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
-| 41 | _Síðasti kennsludagur 12.10_. | | 25 | 45 / 30  |
+| 41 | _Síðasti kennsludagur 12.10_. | | 25 | 75  |
 | 21 | _Námsmat_ |   |   | 100  |
 
 ### Vikuáætlun
