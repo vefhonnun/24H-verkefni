@@ -34,7 +34,7 @@
 | --- | --- | --- | --- | --- | 
 | 34 | Vinnurammi - framework | Grid skipulag (RWD) |CSS variables | **Tímaverkefni 1** | 
 | 35 | Töflur RWD | Form | Form validation | **Tímaverkefni 2** | 
-| 36 | Complex selectors, Drop down menu | Pop up menu, Accordion menu | **Tímaverkefni 3** |
+| 36 | Complex selectors, Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 3** |
 | 37 |  SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni 4** |
 | 38 |  Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 5** |
 | 39 |  Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) |
