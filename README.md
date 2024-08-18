@@ -14,15 +14,14 @@
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 34  | HTML & CSS vinnurammi (_framework_)  | 1 | 5 | 9 |
-| 35  | Töflur og form  | 2 | 5 | 9 |
-| 36  | Flókin stílbrögð (_Complex selectors_) | 3 | 5 | 9 |
-| 37  | SVG vigurteikningar (_Vector graphics_) | 4 | 5 | 9 |
-| 38  | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
-| 39  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
-| 40 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
-| 41 | _Síðasti kennsludagur 12.10_. | | 25 | 75  |
-| 21 | _Námsmat_ |   |   | 100  |
+| 42 - 43  | HTML & CSS vinnurammi (_framework_)  | 1 | 5 | 9 |
+| 44  | Töflur og form  | 2 | 5 | 9 |
+| 45  | Flókin stílbrögð (_Complex selectors_) | 3 | 5 | 9 |
+| 46  | SVG vigurteikningar (_Vector graphics_) | 4 | 5 | 9 |
+| 48  | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
+| 49  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
+| 50 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
+| 50 - 51 | _Síðasti kennsludagur 12.12_. | _Námsmat_  | 25 | 75  |
 
 ### Vikuáætlun
 
