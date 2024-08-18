@@ -18,24 +18,24 @@
 | 44  | Töflur og form  | 2 | 5 | 9 |
 | 45  | Flókin stílbrögð (_Complex selectors_) | 3 | 5 | 9 |
 | 46  | SVG vigurteikningar (_Vector graphics_) | 4 | 5 | 9 |
-| 48  | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
-| 49  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
-| 50 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
+| 47  | CSS kvikun (_Transform, transition & animation_) | 5 | 5 | 9 |
+| 48  | Vefur fyrir viðburð, undirbúningur. | 6 | <sub> **_Lykilmatsþáttur_** </sub> | 15  |
+| 49 | Vefur fyrir viðburð, framleiðsla. | 7 | <sub> **_Lykilmatsþáttur_** </sub>  | 15  |
 | 50 - 51 | _Síðasti kennsludagur 12.12_. | _Námsmat_  | 25 | 75  |
 
 ### Vikuáætlun
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 34 | Vinnurammi - framework | Grid skipulag (RWD) |CSS variables | **Tímaverkefni 1** | 
-| 35 | Töflur RWD | Form | Form validation | **Tímaverkefni 2** | 
-| 36 | Complex selectors, Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 3** |
-| 37 |  SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni 4** |
-| 38 |  Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 5** |
-| 39 |  Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) | Letur- og litaval |
-| 40 |  Vefhönnun | Framleiðsla | Framleiðsla |  Framleiðsla |  
-| 41 | Framleiðsla | Frágangur | Vefur á Github.io | **Skil 14/10 KL. 23:59** |
-| 42 | _Námsmat_ | --- | --- | --- | --- | 
+| 42 - 43 | Vinnurammi - framework | Grid skipulag (RWD) |CSS variables | **Tímaverkefni 1** | 
+| 44 | Töflur RWD | Form | Form validation | **Tímaverkefni 2** | 
+| 45 | Complex selectors, Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 3** |
+| 46 |  SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni 4** |
+| 47 |  Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 5** |
+| 48 |  Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) | Letur- og litaval |
+| 49 |  Vefhönnun | Framleiðsla | Framleiðsla |  Framleiðsla |  
+| 50 | Framleiðsla | Frágangur | Vefur á Github.io | **Skil 12/12 KL. 23:59** |
+| 51 | _Námsmat_ | --- | --- | --- | --- | 
 
 ### Verklýsing
 
