@@ -10,7 +10,7 @@
 
 ## Námsáætlun
 
-#### 2024 haust, spönn 1. -> í vinnslu
+#### 2024 haust, spönn 2.
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
