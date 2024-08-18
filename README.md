@@ -35,7 +35,6 @@
 | 48 |  Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) | Letur- og litaval |
 | 49 |  Vefhönnun | Framleiðsla | Framleiðsla |  Framleiðsla |  
 | 50 | Framleiðsla | Frágangur | Vefur á Github.io | **Skil 12/12 KL. 23:59** |
-| 51 | _Námsmat_ | --- | --- | --- | --- | 
 
 ### Verklýsing
 
