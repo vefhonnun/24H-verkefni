@@ -27,13 +27,13 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 42 - 43 | Vinnurammi - framework | Grid skipulag (RWD) |CSS variables | **Tímaverkefni 1** | 
-| 44 | Töflur RWD | Form | Form validation | **Tímaverkefni 2** | 
-| 45 | Complex selectors, Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 3** |
-| 46 |  SVG vigurteikningar | Tákn/logo búið til | Leturtákn - Icomoon | **Tímaverkefni 4** |
-| 47 |  Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 5** |
-| 48 |  Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) | Letur- og litaval |
-| 49 |  Vefhönnun | Framleiðsla | Framleiðsla |  Framleiðsla |  
+| 42 - 43 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
+| 44 | Töflur RWD | Form | Form validation | **Tímaverkefni 1** | 
+| 45 | Complex selectors | Drop down menu | Pop up menu | Accordion menu |  
+| 46 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
+| 47 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
+| 48 | Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) | Letur- og litaval |
+| 49 | Vefhönnun | Framleiðsla | Framleiðsla |  Framleiðsla |  
 | 50 | Framleiðsla | Frágangur | Vefur á Github.io | **Skil 12/12 KL. 23:59** |
 
 ### Verklýsing
