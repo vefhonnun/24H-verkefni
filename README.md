@@ -58,7 +58,7 @@
 2. Töflur og form 10% 
 3. Flókin stílbrögð 20% _Lykilmatsþáttur_
 4. SVG vigurteikningar 10%
-5. CSS kvikun 10% 
+5. CSS kvikun 20% _Lykilmatsþáttur_ 
 6. Undirbúningur vefs 10% 
 7. Framleiðsla vefs 25% _Lykilmatsþáttur_
 
