@@ -26,7 +26,7 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
   * _„transition“_  
   * _„transform“_ 
   * _„animation“_
-  * Útfærslan er í ykkar höndum.  
+
 
 #### [GH Wiki](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
 
