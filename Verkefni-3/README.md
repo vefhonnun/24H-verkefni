@@ -26,16 +26,16 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 * [Complex Selectors](Námsefni-3/README.md)
 * [Transition og transform](Námsefni-3/Transition-Transform.md)
 
-### Námsmat, lykilmatsþáttur 20%
+### Tímaverkefni, lykilmatsþáttur 20%
 
-#### Æfingaverkefni 12%
+* Efnisyfirlit (_nav_) Mobile - iPad, 20rem - 60rem 
+  * [-] Tákn sem birtir fellilista (_Drop down menu_) 
+* Efnisyfirlit (_nav_) desktop, 60rem +
+  * Allir tenglar sýnilegir efst á vefsíðu í einni línu 
 
-* Fellilisti í efnisyfirliti (_Drop down menu_) 6%
 * Sprettigluggi (_Pop up menu_) 4%
 * Harmonika (_Accordion menu_) 4%
-
-#### Tímaverkefni 8%
-
+* 
 #### Verkefnaskil
 
 - **Tímaverkefni og æfingaverkefni er skilað á sömu vefsíðu**
