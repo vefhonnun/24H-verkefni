@@ -14,7 +14,7 @@
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 42 - 43  | HTML & CSS vinnurammi (_framework_)  | 1 | 10 | - |
+| 42 - 43  | HTML & CSS vinnurammi (_framework_)  | 1 | 5 | - |
 | 44  | Töflur og form  | 2 |  10| - |  
 | 45  | Flókin stílbrögð (_Complex selectors_) | 3 | <sub> **_Lykilmatsþáttur_** </sub>  | 20 |
 | 46  | SVG vigurteikningar (_Vector graphics_) | 4 | 10 | - |
