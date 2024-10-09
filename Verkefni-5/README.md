@@ -28,7 +28,7 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
   * _„animation“_
 
 
-#### [GH Wiki](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
+#### [Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#kvikun---animation)
 
 #### Lesefni
 
