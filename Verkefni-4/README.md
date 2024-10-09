@@ -24,18 +24,16 @@ _Veljið tákn sem passa við ykkar efnisyfirlit_
 - [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
 - [Námsefni](Námsefni-4/README.md)
 
-### Námsmat 14%:  
+### Námsmat 10%:  
 
-- 50% SVG tákn - lógó teiknað í vektor teikniforriti (_inkScape_)
-- 25% Icomoon táknletur (_iconfont_) með innfluttu tákni
-- 25% Táknletur sett í HTML síðu. Mismunandi tákn í efnisyfirliti og &lt;header>
+- 5% SVG tákn - lógó teiknað í vektor teikniforriti (_inkScape_)
+- 2.5% Icomoon táknletur (_iconfont_) með innfluttu tákni
+- 2.5% Táknletur sett í HTML síðu. Mismunandi tákn í efnisyfirliti og &lt;header>
 
 #### Verkefnaskil
 
 - SVG tákn  
-- Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í þjappaðri skrá, **Verkefni-4.zip**. 
-
-> Skil á verkefni 4 lokast þegar síðasta kennslutíma verkefnisins er lokið
+- Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-4_ í **.zip** skrá. 
 
 #### Einkunn verður birt í Innu
 
