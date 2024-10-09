@@ -25,18 +25,15 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 * [Kvikun (_Bókin um vefforitun, ÓSK_)](https://bok.vefforritun.is/19.kvikun)
 
-#### Námsmat 14%
+#### Námsmat 20% _Lykilmatsþáttur_
 
-- 6% Æfingaverkefni
-  - 3% Myndasýning (_slideshow_) með með a.m.k fjórum myndum
-  - 3% Kviktákn (_loader image_) birtist þegar stórt skjal er hlaðið inn í vafra
-- 8% Tímaverkefni
+- 8% Skjáskvetta (_Splash intro_)
+- 6% Myndasýning (_slideshow_) 
+- 6% Textatilkynning (__) 
 
 #### Vekefnaskil
 
-Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ1VG/Verkefni-5_ í **.zip** skrá, . 
-
-> Skil á verkefni 5 lokast þegar tímaverkefni er lokið
+Vefsíðu og stílsíðum er skilað í _Innu/VEFÞ2VH05AU/Verkefni-5_ í **.zip** skrá. 
 
 #### Einkunn verður birt í Innu
 
