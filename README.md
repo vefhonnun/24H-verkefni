@@ -32,7 +32,7 @@
 | 45 |  Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 1** |  
 | 46 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
 | 47 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
-| 48 | Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) | Letur- og litaval |
+| 48 | Forhönnun | Skipulag (site-map) | Leiðakerfi (wireframe) | Letur- og litaval |
 | 49 | Vefhönnun | Framleiðsla | Framleiðsla |  Framleiðsla |  
 | 50 | Framleiðsla | Frágangur | Vefur á Github.io | **Skil 12/12 KL. 23:59** |
 
