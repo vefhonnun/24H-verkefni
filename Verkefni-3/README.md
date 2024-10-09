@@ -39,10 +39,7 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
   
 #### Verkefnaskil
 
-- **Tímaverkefni og æfingaverkefni er skilað á sömu vefsíðu**
-- Verkefninu er skilað í _Innu/VEFÞ2VH05BU/Verkefni-3_  í þjappaðri skrá, **Verkefni-3.zip**. 
-
-> Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
+-  _Inna/VEFÞ2VH05BU/Verkefni-3_  í **.zip** skrá. 
 
 #### Einkunn verður birt í Innu
 
