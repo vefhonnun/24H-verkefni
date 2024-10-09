@@ -55,7 +55,7 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 ### Námsmat:  
 
-#### Æfingaverkefni 6%
+#### Æfingaverkefni 10%
 
 * Tafla				
   * aðlagast skjástærðum
@@ -63,13 +63,7 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
   * aðlagast skjástærðum
   * innsláttarreitir eru skilyrtir (_required_)	
 
-Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **Æfingar.zip**. 
-
-#### Tímaverkefni 8%
-
-- Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
-
-> Skil á verkefni 2 lokast þegar kennslustund tímaverkefnis er lokið
+Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í **.zip** skrá. 
 
 #### Einkunn verður birt í Innu
 
