@@ -12,7 +12,7 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til a�
 
 ### Námsmat:  
 
-#### Æfingaverkefni 6%
+#### Æfingaverkefni 5%
 
 * Skipulag – Layout				
   * 2% Dálkaskipulag - Grid 
@@ -23,10 +23,5 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til a�
 
 Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri skrá, **Æfingar.zip**. 
 
-#### Tímaverkefni 8%
-
-- Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ2VH/Verkefni-1_ í sér skrá, **Tímaverkefni.zip**. 
-
-> Skil á verkefni 1 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
