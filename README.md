@@ -48,7 +48,7 @@
       * safna saman texta og myndum sem hægt er að nota
       * ákveða litaþema og leturval vefs (_Style-tyle_)
       * búa til vefkort (_Site-map_) 
-      * leiðakerfi (Wire-frame)
+      * leiðakerfi (_Wire-frame_)
 1. verkefni. Vefur fyrir viðburð. 
       * framleiðsla og frágangur
       * Vefur er birtur á https://(user).github.io/(subdomain)
