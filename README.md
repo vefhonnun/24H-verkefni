@@ -47,7 +47,7 @@
    * Efni vefs er valsfrjálst, nemendur þurfa að:
       * safna saman texta og myndum sem hægt er að nota
       * ákveða litaþema og leturval vefs (_Style-tyle_)
-      * búa til efnisyfirlit (_Site-map_) 
+      * búa til vefkort (_Site-map_) 
       * leiðakerfi (Wire-frame)
 1. verkefni. Vefur fyrir viðburð. 
       * framleiðsla og frágangur
