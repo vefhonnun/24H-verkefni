@@ -6,7 +6,7 @@
 
 ## Myndasýning (_Slideshow_)
 
-Það er hægt að búa til einfaldar myndasýningar með CSS stílum [sjá nánar hér]()
+Það er hægt að búa til einfaldar myndasýningar með CSS stílum [sjá nánar hér](https://www.w3.org/Style/Examples/007/slideshow.en.html)
 
 ## Áríðandi tilkynning
 
