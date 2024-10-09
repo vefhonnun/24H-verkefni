@@ -28,8 +28,8 @@
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
 | 42 - 43 | Vinnurammi (_framework_) | Grid skipulag | CSS variables | Litaþema | 
-| 44 | Töflur RWD | Form | Form validation | **Tímaverkefni 1** | 
-| 45 | Complex selectors | Drop down menu | Pop up menu | Accordion menu |  
+| 44 | Töflur RWD | Form | Form validation | Complex selectors |
+| 45 |  Drop down menu | Pop up menu | Accordion menu | **Tímaverkefni 1** |  
 | 46 | SVG vigurteikningar | Ink-Scape | Tákn/logo búið til | Leturtákn - Icomoon | 
 | 47 | Kvikun | Transform - transition | @keyframe animation | **Tímaverkefni 2** |
 | 48 | Skipulag (site-map) | Leiðakerfi (wireframe) | (_Tækniskóladagurinn_) | Letur- og litaval |
