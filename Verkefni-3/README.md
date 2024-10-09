@@ -28,15 +28,15 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
 ### Tímaverkefni, lykilmatsþáttur 20%
 
-* Efnisyfirlit (_nav_) Mobile - iPad, 20rem - 60rem 
+* 4% Efnisyfirlit (_nav_) Mobile - iPad, 20rem - 60rem 
   * [≡] Tákn sem birtir fellilista (_Drop down menu_) 
-* Efnisyfirlit (_nav_) desktop, 60rem +
+* 4% Efnisyfirlit (_nav_) desktop, 60rem +
   * Allir tenglar sýnilegir í einni línu efst í vefsíðu 
+* 4% Sprettigluggi (_Pop up menu_) 
+* 4% Harmonika (_Accordion menu_) 
+* 4% Spjallbox (_Chat box_)
 
-
-* Sprettigluggi (_Pop up menu_) 4%
-* Harmonika (_Accordion menu_) 4%
-* 
+  
 #### Verkefnaskil
 
 - **Tímaverkefni og æfingaverkefni er skilað á sömu vefsíðu**
