@@ -29,7 +29,7 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 - 8% Skjáskvetta (_Splash intro_)
 - 6% Myndasýning (_slideshow_) 
-- 6% Textatilkynning (__) 
+- 6% Textatilkynning rennur yfir skjáinn frá hægri til vinstri. 
 
 #### Vekefnaskil
 
