@@ -70,7 +70,8 @@
 ### Verkefnaskil 
 
 -  Æfingaverkefnum er skilað í lok hvers verkefnis (_í .zip skrá_) í Innu/VEFÞ2VH05AU/verkefni{n}
--  Tímaverkefnin eru unnið í kennslustund og skilað í lok kennslustundar (_í .zip skrá_) 
+
+-  Tímaverkefnin eru unnin í kennslustund og skilað í lok kennslustundar (_í .zip skrá_) 
 
 -  Einkunn fyrir verkefnin birtast í Innu
    
