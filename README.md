@@ -44,10 +44,11 @@
 1. verkefni. Unnið er með SVG teikningar og leturtáknsafn búið til 
 1. verkefni. Kvikun, CSS _transition, transform & @keyframe_ 
 1. verkefni. Vefur fyrir viðburð. 
-   * Efni vefs er valsfrjálst, nemendur:
+   * Efni vefs er valsfrjálst, nemendur þurfa að:
       * safna saman texta og myndum sem hægt er að nota
       * ákveða litaþema og leturval vefs (_Style-tyle_)
-      * búa til efnisyfirlit (_Site-map_) og leiðakerfi (Wire-frame)
+      * búa til efnisyfirlit (_Site-map_) 
+      * leiðakerfi (Wire-frame)
 1. verkefni. Vefur fyrir viðburð. 
       * framleiðsla og frágangur
       * Vefur er birtur á https://(user).github.io/(subdomain)
