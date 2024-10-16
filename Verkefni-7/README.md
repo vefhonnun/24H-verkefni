@@ -19,25 +19,25 @@ Nemendur eiga að geta unnið skipulega að gerð vefs.
 
 > Vefurinn á að endurspegla þá verkkunnáttu sem þið hafið öðlast í áfanganum ásamt fyrri áfanga, VEFÞ1. 
 
-### Námsmat 15% - _Lykilmatsþáttur_
+### Námsmat 25% - _Lykilmatsþáttur_
 
--	**4%** Skipulag - innihald  
+-	**7%** Skipulag - innihald  
    	* SVG lógo er í &lt;header>
     * Sveigjanleg hönnun, myndir aðlagast mismunandi skjástærðum
     * Form - með skilyrtum innsláttareitum
     * Tafla - Sýnileg í öllum skjástærðum
     * Efnisyfirlit - Fellilisti (_drop-down menu_) í farsímum
--	**4%** Útlitshönnun  
+-	**7%** Útlitshönnun  
     * Litasamsetning
     * Leturval
-- **3%** Kvikun  
+- **5%** Kvikun  
     * Kvikun (_Animation_) 
     * Myndasýning (_Slideshow_) ef það á við
-- **2%** Frágangur 
+- **3%** Frágangur 
     * Ein þjöppuð stílsíða tengd við html síður
     * Allar myndir í sérmöppu 
     * HTML5 og CSS ritháttur í lagi
-- **2%** Vefurinn birtur á internetinu 
+- **3%** Vefurinn birtur á internetinu 
     * https://(_notandi_).github.io/(_undirlén_)
 
 #### Verkefnaskil

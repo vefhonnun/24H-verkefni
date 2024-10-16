@@ -1,3 +1,7 @@
+#### Lesefni
+
+* [Töflur, listar og form](https://bok.vefforritun.is/05.toflur-listar-form) (_Bókin um vefforritun_)
+
 #### Töflur 	
 
 * [Skipulagning gagna](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
@@ -17,6 +21,3 @@
 * [Form Data Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
 * [HTML 5 Pattern](http://html5pattern.com/)
 
-#### Lesefni
-
-* [Töflur, listar og form](https://bok.vefforritun.is/05.toflur-listar-form) (_Bókin um vefforritun, ÓSK_)
