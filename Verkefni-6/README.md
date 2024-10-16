@@ -54,13 +54,13 @@
 
 [Sjá nánar](Námsefni-6/README.md)
 
-### Námsmat 15% - _lykilmatsþáttur_
+### Námsmat 10%
 
-* Hugmyndavinna 3%
-* Efnisöflun og Textavinna 3%
-* Efnisyfirlit - _Site Map_ 3%
-* Tengirit - _Wireframe_     3%
-* Stílbragð - _Style tyle_  3%
+* Hugmyndavinna 2%
+* Efnisöflun og Textavinna 2%
+* Efnisyfirlit - _Site Map_ 2%
+* Tengirit - _Wireframe_     2%
+* Stílbragð - _Style tyle_  2%
 
 ### Verkefnaskil
 
