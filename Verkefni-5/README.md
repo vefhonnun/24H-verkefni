@@ -32,7 +32,7 @@ Bættu tilkynningu við vefsíðuna sem þú hefur verið að vinna með í 4. v
 
 #### Lesefni
 
-* [Kvikun (_Bókin um vefforitun, ÓSK_)](https://bok.vefforritun.is/19.kvikun)
+* [Kvikun (_Bókin um vefforitun_)](https://bok.vefforritun.is/19.kvikun)
 
 #### Námsmat 20% _Lykilmatsþáttur_
 
