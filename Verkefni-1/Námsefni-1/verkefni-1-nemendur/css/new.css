@@ -1,18 +1,19 @@
 :root {
-	--nc-font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	--nc-font-sans: 'Noto Sans', sans-serif; /*leturgerð sótt af fonts.google.com */
+	/*--nc-font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
 	--nc-font-mono: Consolas, monaco, 'Ubuntu Mono', 'Liberation Mono', 'Courier New', Courier, monospace;
 
 	/* Light theme */
-	--nc-tx-1: #000000;
-	--nc-tx-2: #1A1A1A;
-	--nc-bg-1: #FFFFFF;
-	--nc-bg-2: #F6F8FA;
-	--nc-bg-3: #E5E7EB;
-	--nc-lk-1: #0070F3;
-	--nc-lk-2: #0366D6;
-	--nc-lk-tx: #FFFFFF;
-	--nc-ac-1: #79FFE1;
-	--nc-ac-tx: #0C4047;
+	--nc-tx-1: #000000;	/* H1-H6 */
+	--nc-tx-2: #1A1A1A;	/* Body text */
+	--nc-bg-1: #FFFFFF; 	/* Bakgrunnur 1 */
+	--nc-bg-2: #F6F8FA;	/* Bakgrunnur 2 */
+	--nc-bg-3: #E5E7EB;	/* Bakgrunnur 3 (border line form, ofl)*/
+	--nc-lk-1: #0070F3;	/* A tengill (link) */
+	--nc-lk-2: #0366D6;	/* A tengill (hover) */
+	--nc-lk-tx: #FFFFFF;	/* Button + input type */
+	--nc-ac-1: #79FFE1;	/* Bakgrunnur selection + mark */
+	--nc-ac-tx: #0C4047;	/* Selection + mark*/
 
 	/* Dark theme */
 	--nc-d-tx-1: #ffffff;
