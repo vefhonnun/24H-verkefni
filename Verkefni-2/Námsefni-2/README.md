@@ -21,3 +21,11 @@
 * [Form Data Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
 * [HTML 5 Pattern](http://html5pattern.com/)
 
+### Samskipti Vefforms og vefþjóns
+
+Notandi fyllir út form á HTML og sendir það til vefþjóns (_server_) með því að ýta á hnapp (_button_) sem er staðsettur í forminu. Vel hannað form inniheldur skilyrði (_requested_) sem athugar gildi formsins og lætur notandann vita ef einhver villa er til staðar í forminu. Ef öllum skilyrðum er mætt er formið sent til vefþjóns.
+
+Höfundur formsins þarf að tilgreina „aðgerð“ (_method_) sem segir vafranum hvert á að senda innihald formsins. „Aðgerðin“ vísar venjulega á vefslóð skriftu sem veit hvað á að gera við gögnin. Gildin í forminu eru send á vefslóð vefþjónsins með aðgerðinni POST.
+
+Vefþjónninn vinnur úr beiðninni. Vefþjónninn sendir formgögnin til vinnsluforritsins (sem nefnt er með 'aðgerðinni'). Formvinnsluforritið er skrifað á tungumálum eins og Python eða Perl. 
+
