@@ -21,7 +21,7 @@
 * [Form Data Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
 * [HTML 5 Pattern](http://html5pattern.com/)
 
-### Samskipti Vefforms og vefþjóns
+### Samskipti HTMML forms og vefþjóns
 
 Notandi fyllir út form á HTML og sendir það til vefþjóns (_server_) með því að ýta á hnapp (_button_) sem er staðsettur í forminu. Vel hannað form inniheldur skilyrði (_requested_) sem athugar gildi formsins og lætur notandann vita ef einhver villa er til staðar í forminu. Ef öllum skilyrðum er mætt er formið sent til vefþjóns.
 
