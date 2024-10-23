@@ -19,11 +19,9 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til a�
 
 ![Mynd 3](synidaemi/verk-12L.jpg)
 ![Mynd 3](synidaemi/verk-13L.jpg)
-![Mynd 3](synidaemi/verk-14L.jpg)
 
 ![Mynd 4](synidaemi/verk-12D.jpg)
 ![Mynd 4](synidaemi/verk-13D.jpg)
-![Mynd 3](synidaemi/verk-14D.jpg)
 
 ### Námsmat:  
 
