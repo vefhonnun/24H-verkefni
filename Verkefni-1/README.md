@@ -16,6 +16,8 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til a�
 ![Mynd 1](synidaemi/verk-1L.jpg)
 ![Mynd 2](synidaemi/verk-1D.jpg)
 
+Litir í mynd eru settir í CSS litaþemað og gulur litur búinn til og settur í það.
+
 ### Grid dálkakerfi
 
 ![Mynd 3](synidaemi/verk-12L.jpg)
@@ -28,9 +30,15 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til a�
 
 ![mynd 5](synidaemi/mobile.JPG) 
 
+Ein dálkabreidd á öllum grid klösum (1fr)
+
 ![mynd 6](synidaemi/ipads.jpg)
 
+Dálkar skiptast rétt í spjaldtölvum
+
 ![mynd 7](synidaemi/laptops.jpg)
+
+Græni bakgrunnurinn teygist yfir skjáinn (_sérsnið - custom css_)
 
 ### Námsmat:  
 
