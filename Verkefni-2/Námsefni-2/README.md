@@ -27,5 +27,5 @@ Notandi fyllir út form í vafra og sendir það til vefþjóns með því að �
 
 Höfundur formsins þarf að tilgreina „aðgerð“ (_method_) sem segir vafranum hvert á að senda innihald formsins. „Aðgerðin“ vísar venjulega á vefslóð skriftu sem veit hvað á að gera við gögnin. Gildin í forminu eru send á vefslóð vefþjónsins með aðgerðinni POST.
 
-Vefþjónninn vinnur úr beiðninni. Vefþjónninn sendir formgögnin til vinnsluforritsins (sem nefnt er með 'aðgerðinni'). Formvinnsluforritið er skrifað á tungumálum eins og Python eða Perl. 
+Vefþjónninn vinnur úr beiðninni. Vefþjónninn sendir formgögnin til vinnsluforritsins (sem nefnt er með 'aðgerðinni'). Formvinnsluforritið er skrifað á forritunarmálum eins og Python eða Perl. 
 
