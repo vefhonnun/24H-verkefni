@@ -24,6 +24,14 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til a�
 ![Mynd 4](synidaemi/verk-12D.jpg)
 ![Mynd 4](synidaemi/verk-13D.jpg)
 
+### Svegjanleg hönnun
+
+![mynd 5](synidaemi/mobile.JPG) 
+
+![mynd 6](synidaemil/ipads.jpg)
+
+![mynd 7](synidaemil/laptops.jpg)
+
 ### Námsmat:  
 
 #### Æfingaverkefni 5%
