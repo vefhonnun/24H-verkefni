@@ -10,6 +10,19 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til a�
 * [Grunnsíður - Boilerplate](Námsefni-1/boilerplate/)
 * [New.css](https://github.com/xz/new.css)
 
+### Tvískipt litaþema
+
+![Mynd 1](synidaemi/verk-1L.jpg)
+![Mynd 2](synidaemi/verk-1D.jpg)
+
+### Grid dálkakerfi
+
+![Mynd 3](synidaemi/verk-12L.jpg)
+![Mynd 3](synidaemi/verk-13L.jpg)
+
+![Mynd 4](synidaemi/verk-12D.jpg)
+![Mynd 4](synidaemi/verk-13D.jpg)
+
 ### Námsmat:  
 
 #### Æfingaverkefni 5%
