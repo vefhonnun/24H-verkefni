@@ -28,17 +28,19 @@ Litir í mynd eru settir í CSS litaþemað og gulur litur búinn til og settur 
 
 ### Svegjanleg hönnun
 
+Farsímar (_Mobile_). Ein dálkabreidd á öllum grid klösum (1fr).
+
 ![mynd 5](synidaemi/mobile.JPG) 
 
-Ein dálkabreidd á öllum grid klösum (1fr)
+Spjaldtölvur (_laptops_). 6 dálkar skiptast rétt.
 
 ![mynd 6](synidaemi/ipads.jpg)
 
-Dálkar skiptast rétt í spjaldtölvum
+Fatölvur. Græni bakgrunnurinn teygist yfir skjáinn (_sérsnið - custom css_).
 
 ![mynd 7](synidaemi/laptops.jpg)
 
-Græni bakgrunnurinn teygist yfir skjáinn (_sérsnið - custom css_)
+
 
 ### Námsmat:  
 
