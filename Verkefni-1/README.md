@@ -28,9 +28,9 @@ Meðfylgjandi verkefninu er HTML og CSS grunnsíða sem þú getur notað til a�
 
 ![mynd 5](synidaemi/mobile.JPG) 
 
-![mynd 6](synidaemil/ipads.jpg)
+![mynd 6](synidaemi/ipads.jpg)
 
-![mynd 7](synidaemil/laptops.jpg)
+![mynd 7](synidaemi/laptops.jpg)
 
 ### Námsmat:  
 
