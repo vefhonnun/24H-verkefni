@@ -30,14 +30,16 @@ Töflur henta illa í útlithönnun ss til að birta texta og myndir sem breytas
 
 Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins og töflunnar og í rökréttu samhengi við heildarútlit vefsins.  Formið á að vera sýnilegt í öllum helstu skjástærðum. 
   
-![Mynd 3.](myndir/mynd-3.jpg)
+![Mynd 5.](synidaemi/form-mobileD.jpg) ![Mynd 6.](synidaemi/form-mobileL.jpg)
 
-#### Form 
+Formið á að vera í tvískiptu litaþema
 
-Í base.css er búið að tilgreina alla helstu þætti sem hægt er að stíla í formtögunum, aðlagið formið að ykkar útlitshönnun og skipulagi.
+![Mynd 7.](synidaemi/form-ipad.jpg)
+
+![Mynd 7.](synidaemi/form-ipad.jpg)
 
 #### Réttritun (_validation_)
-Þegar smellt er á hnappinn (input submit) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
+Þegar smellt er á hnappinn (_input type:submit_) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
 
 ` <input type=“x“ name=“x“ value=“X“ required placeholder=“fyllið út þennan reit“> `
 
