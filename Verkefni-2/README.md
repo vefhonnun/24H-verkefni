@@ -4,17 +4,17 @@ Búðu til töflu í vefsíðu, innhald töflunar getur verið dagskrá af einhv
 
 Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
 
-#### Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
+#### Viðmið 0 – 48rem (0 – 768px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
 
 ![Mynd 1.](synidaemi/tafla-mobileD.jpg) ![Mynd 2.](synidaemi/tafla-mobileL.jpg)
 
 Taflan á að vera í tvískiptu litaþema
 
-#### Viðmið 48em + (760px).
+#### Viðmið 48rem + (768px).
 
 ![Mynd 3.](synidaemi/tafla-ipad.jpg)
 
-#### Viðmið 80em + (1280px).
+#### Viðmið 80rem + (1280px).
 
 ![Mynd 4.](synidaemi/tafla-laptop.jpg)
 
@@ -34,11 +34,11 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 Formið á að vera í tvískiptu litaþema
 
-#### Viðmið 48em + (760px).
+#### Viðmið 48rem + (768px).
 
 ![Mynd 7.](synidaemi/form-ipad.jpg)
 
-#### Viðmið 80em + (1280px).
+#### Viðmið 80rem + (1280px).
 
 ![Mynd 7.](synidaemi/form-laptop.jpg)
 
