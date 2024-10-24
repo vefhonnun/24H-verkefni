@@ -14,7 +14,7 @@ Taflan á að vera í tvískiptu litaþema
 
 ![Mynd 3.](synidaemi/tafla-ipad.jpg)
 
-#### Viðmið 60em + (960px).
+#### Viðmið 80em + (1280px).
 
 ![Mynd 4.](synidaemi/tafla-laptop.jpg)
 
