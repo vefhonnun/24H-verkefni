@@ -6,7 +6,7 @@ Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skj�
 
 #### Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
 
-![Mynd 1.](synidaemi/tafla-mobileD.jpg) ![Mynd 2.](synidaemi/tafla-mobileD.jpg)
+![Mynd 1.](synidaemi/tafla-mobileD.jpg) ![Mynd 2.](synidaemi/tafla-mobileL.jpg)
 
 Taflan á að vera í tvískiptu litaþema
 
