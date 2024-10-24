@@ -36,7 +36,7 @@ Formið á að vera í tvískiptu litaþema
 
 ![Mynd 7.](synidaemi/form-ipad.jpg)
 
-![Mynd 7.](synidaemi/form-ipad.jpg)
+![Mynd 7.](synidaemi/form-laptop.jpg)
 
 #### Réttritun (_validation_)
 Þegar smellt er á hnappinn (_input type:submit_) í skráningarforminu þá athugar (_validate_) vafrinn hvort texti sé rétt skráður í innsláttarreiti (_input_). Ef textinn uppfyllir ekki þau skilyrði sem eiga við þá á ekki að vera hægt að senda upplýsingar frá vefsíðunni (en ef allt er í lagi þá sendum við innsláttinn út í bláinn). 
