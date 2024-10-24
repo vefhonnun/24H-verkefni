@@ -4,13 +4,21 @@ Búðu til töflu í vefsíðu, innhald töflunar getur verið dagskrá af einhv
 
 Taflan á að birtast í öllum skjástærðum án þess að fara út fyrir skjáinn.  
 
-#### Mynd 1. Viðmið 48em + (760px ~ og stærri skjáir).
+#### Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
 
-![Mynd 1.](myndir/mynd-1.jpg)
+![Mynd 1.](synidaemi/tafla-mobileD.jpg) ![Mynd 2.](synidaemi/tafla-mobileD.jpg)
 
-#### Mynd 2. Viðmið 0 – 48 em (0 – 760px) Það á ekki að þurfa að hliðra til skjánum þegar taflan er skoðuð í farsímum.
+Taflan á að vera í tvískiptu litaþema
 
-![Mynd 2.](myndir/mynd-2.jpg)
+#### Viðmið 48em + (760px).
+
+![Mynd 3.](synidaemi/tafla-ipad.jpg)
+
+#### Viðmið 60em + (960px).
+
+![Mynd 4.](synidaemi/tafla-laptop.jpg)
+
+
 
 Tabular Data &lt;td> er eina tagið sem er hannað til að sækja gögn af miðlara í hvert sinn sem vefsíða er opnuð, jafnvel þegar flett er á milli síðna. Það er mjög gagnlegt þegar um er að ræða upplýsingar sem þurfa að uppfærast daglega eða oftar.
 
