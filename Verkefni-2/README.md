@@ -34,7 +34,11 @@ Setjið skráningarform inn á vefinn ykkar, hafið samræmi í útliti formsins
 
 Formið á að vera í tvískiptu litaþema
 
+#### Viðmið 48em + (760px).
+
 ![Mynd 7.](synidaemi/form-ipad.jpg)
+
+#### Viðmið 80em + (1280px).
 
 ![Mynd 7.](synidaemi/form-laptop.jpg)
 
