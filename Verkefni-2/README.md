@@ -69,9 +69,9 @@ Formið á að vera í tvískiptu litaþema
 
 ### Námsmat: 10%
 
-* Tafla				
+* Tafla	5%
   * aðlagast skjástærðum
-* Form					
+* Form	5%				
   * aðlagast skjástærðum
   * innsláttarreitir eru skilyrtir (_required_)	
 
