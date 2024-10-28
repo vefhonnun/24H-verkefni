@@ -67,9 +67,7 @@ Formið á að vera í tvískiptu litaþema
 
 - **[Bjargir](https://github.com/vefhonnun/24H-verkefni/wiki#t%C3%B6flur)**
 
-### Námsmat:  
-
-#### Æfingaverkefni 10%
+### Námsmat: 10%
 
 * Tafla				
   * aðlagast skjástærðum
