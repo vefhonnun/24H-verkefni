@@ -19,7 +19,7 @@ Sjá dæmi á: [https://vefhonnun.github.io](https://vefhonnun.github.io)
 
 Þegar mikilvægar upplýsingar þurfa að koma fram er gott að nota sprettiglugga _pop up menu_. Það er hægt að hanna hann með stílbrögðum eins og fellilistana. Skoðaðu sýnidæmin hér.
 
-* [Sýnidæmi](https://vefhonnun.github.io/synidaemi/verkefni-3/)
+* [Sýnidæmi](https://github.com/vefhonnun/24H-verkefni/wiki#fl%C3%B3knir-st%C3%ADlar---complex-selectors)
 
 #### Námsefni
 
