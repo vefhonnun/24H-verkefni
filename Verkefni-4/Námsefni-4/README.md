@@ -2,8 +2,10 @@
 
 ![Vigrar](myndir/pen_tool_usage.webp)
 
-- [Inkscape - The Pen Tool](https://inkscape-manuals.readthedocs.io/en/latest/pen-tool.html)
 - [What is Vector Art](https://www.linearity.io/blog/what-is-vector-art/)
+- [Inkscape - The Pen Tool](https://inkscape-manuals.readthedocs.io/en/latest/pen-tool.html)
+- Breyta tungumáli viðmóts í Inkscape (_File > Preferences_)
+  - [stillingar](myndir/kjorstillingar-preferences.jpg)
 
 #### GH Wiki
 
