@@ -30,7 +30,7 @@
 
 ![icomoon](myndir/icomoon1.jpg)
 
- Einnig getur þú sótt (_import_) eigin tákn í appið. Valin tákn eru merkt með gulri útlínu.
+ Einnig getur þú sótt (_import Icon_) eigin vektor tákn í appið. Valin tákn eru merkt með gulri útlínu.
 
 ![icomoon](myndir/icomoon.jpg)
 
