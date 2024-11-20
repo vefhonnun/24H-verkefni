@@ -8,7 +8,7 @@ Hér er grunnur til að byrja á. Breytið og bætið að eigin smekk. _Gerið s
 
 ![svg friðarlógó](Peace.svg)
 
-## Hátíð ljóssins á vetrarsóstöðum
+## Hátíð ljóssins á vetrarsólstöðum
 
 ### Tónleikar á (... stöðum) þar sem þekktir tónlistarmenn koma fram
 
