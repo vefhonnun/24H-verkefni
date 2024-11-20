@@ -2,7 +2,7 @@
 
 Eins og fram kemur í verklýsingu er _efnisval frjálst_, gott er að byrja snemma að finna hugmynd að lokaverkefninu. 
 
-Hér er grunnur til að byrja á. Breytið og bætið umfjöllunarefnið að eigin smekk. _Gerið svo vel._
+Hér er grunnur til að byrja á. Breytið og bætið að eigin smekk. _Gerið svo vel._
 
 ---
 
