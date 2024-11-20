@@ -2,9 +2,9 @@
 
 Eins og fram kemur í verklýsingu er _efnisval frjálst_, gott er að byrja snemma að finna hugmynd að lokaverkefninu. 
 
----
+Hér er grunnur til að byrja á. Breytið og bætið umfjöllunarefnið að eigin smekk. _Gerið svo vel._
 
-Hér er dæmi um hvað er hægt að fjalla um. Það má nota þennan texta sem grunn undir lokaverkefni, breytið og bætið umfjöllunarefnið að eigin smekk. _Gerið svo vel._
+---
 
 ![svg friðarlógó](Peace.svg)
 
