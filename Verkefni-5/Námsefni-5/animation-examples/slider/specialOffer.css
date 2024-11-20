@@ -65,7 +65,6 @@ body {
     overflow: hidden;
     background-color: #7efafa;
     position: relative; /* ath */
-    margin-top: -1em;
   }
   #scroll-container a{
     text-decoration: none;
