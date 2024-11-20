@@ -10,14 +10,16 @@ Hér er dæmi um hvað er hægt að fjalla um. Það má nota þennan texta sem 
 
 ## Hátíð ljóssins á vetrarsóstöðum
 
-### Tónleikar í (staður) þar sem þekktir tónlistarmenn koma fram
+### Tónleikar á (... stöðum) þar sem þekktir tónlistarmenn koma fram
 
-Efnisyfirlit
+Efnisyfirlit, hvað þarf að koma fram á vefnum
 
-1. Hversvegna? 
+1. Hversvegna
+1. Hvar
 1. Hverjir koma fram
 1. Hvenær, dagskrá
-1. Skráning á tónleikana
+1. Skráning á viðburði
+1. Hverjir sjá um hátíðina
 
 ---
 
@@ -26,14 +28,18 @@ Efnisyfirlit
 2. Á tónleikunum koma fram ...
 
 3. Föstudagur 20. desember
-    * Kl. 15.30: Lifandi tónlist á palli ....
-    * Kl. 17.30: Dorgveiðikeppni barna ....
-    * Kl. 18.30: Afhjúpun á listaverki og grillaðar pylsur fyrir börnin.
-    * Kl. 19.00– 20.30: Súpurölt til heimamanna.
-    * Kl. 22.00: Sigling í kringum eyjuna.
-    * Kl. 23.59: Ganga út á eyjarfót í miðnætursól. Lifandi tónlist.
+    * Kl. 13.30: Hátíðin sett þegar sól er hæst á lofti. 
+    * Kl. 15.30: .............................
+    * Kl. 17.30: .............................
+    * Kl. 18.30: ..............................
+    * Kl. 19.00: ..............................
+    * Kl. 20.30: ..............................
+    * Kl. 22.00: ..............................
+    * Kl. 23.59: Lifandi tónlist á ............
 
-4. Skráning
+4. Skráning á viðburði
+
+5. Hafðu samband - hverjir erum við?
 
 ---
 
