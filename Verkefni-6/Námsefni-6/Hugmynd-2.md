@@ -15,8 +15,8 @@ Hér er grunnur til að byrja á. Breytið og bætið umfjöllunarefnið að eig
 Efnisyfirlit, hvað þarf að koma fram á vefnum
 
 1. Hversvegna
-1. Hvar
 1. Hverjir koma fram
+1. Hvar
 1. Hvenær, dagskrá
 1. Skráning á viðburði
 1. Hverjir sjá um hátíðina
@@ -27,7 +27,9 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
 
 2. Á tónleikunum koma fram ...
 
-3. Föstudagur 20. desember
+3. Hvar eru hverjir?
+
+4. Föstudagur 20. desember
     * Kl. 13.30: Hátíðin sett þegar sól er hæst á lofti. 
     * Kl. 15.30: .............................
     * Kl. 17.30: .............................
@@ -37,9 +39,9 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
     * Kl. 22.00: ..............................
     * Kl. 23.59: Lifandi tónlist á ............
 
-4. Skráning á viðburði
+5. Skráning á viðburði
 
-5. Hafðu samband - hverjir erum við?
+6. Hafðu samband - hverjir erum við?
 
 ---
 
