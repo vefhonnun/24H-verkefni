@@ -2,7 +2,13 @@
 
 Eins og fram kemur í verklýsingu er _efnisval frjálst_, gott er að byrja snemma að finna hugmynd að lokaverkefninu. 
 
-Hér er grunnur til að byrja á. Breytið og bætið að eigin smekk. _Gerið svo vel._
+#### Hér er tilaga að viðfangsefni
+
+* Fyrirtæki og veitingastaðir koma sér saman um að halda viðburði tengda sólstöðum. 
+* Þemað hátíðarinnar er andstaða við stríðsbrölt stórveldanna og ósk um frið á jörð
+* Allur ágóði af tónleikum renna til hjálparstofnana
+
+> Breytið og bætið að eigin smekk. _Gerið svo vel._
 
 ---
 
@@ -10,7 +16,7 @@ Hér er grunnur til að byrja á. Breytið og bætið að eigin smekk. _Gerið s
 
 ## Hátíð ljóssins á vetrarsólstöðum
 
-### Tónleikar á (... stöðum) þar sem þekktir tónlistarmenn koma fram
+### Tónleikar á x mörgum stöðum, þar sem þekktir tónlistarmenn koma fram
 
 Efnisyfirlit, hvað þarf að koma fram á vefnum
 
@@ -44,6 +50,8 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
 6. Hafðu samband - hverjir erum við?
 
 ---
+
+Þegar efni hefur verið valið  
 
 ### [Dæmi um lokaverkefni unnin í VEFÞ2VH](https://vefhonnun.github.io/synidaemi/)
 
