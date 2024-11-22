@@ -38,7 +38,7 @@
 
 **Animation** is actually a shorthand for eight subproperties:
 
-` animation: name duration timing delay iteration direction fill play; `
+` animation: duration timing delay iteration direction fill play name; `
 
 ```CSS
   /* @keyframes duration | easing-function | delay |
