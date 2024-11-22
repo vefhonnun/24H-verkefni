@@ -4,7 +4,7 @@ Eins og fram kemur í verklýsingu er _efnisval frjálst_, gott er að byrja sne
 
 #### Hér er tilaga að viðfangsefni
 
-* Fyrirtæki og veitingastaðir koma sér saman um að halda viðburði tengda sólstöðum. 
+* Tónlistarfólk og veitingastaðir koma sér saman um að halda viðburði tengda sólstöðum 21.desember 
 * Þemað hátíðarinnar er andstaða við stríðsbrölt stórveldanna og ósk um frið á jörð
 * Allur ágóði af tónleikum renna til hjálparstofnana
 
