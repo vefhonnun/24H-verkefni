@@ -50,6 +50,11 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
 6. Hafðu samband - hverjir erum við?
 
 ---
+### Viðmið
+
+* [Jingle-ball](https://www.iheart.com/jingle-ball/)
+* [Music Festival Wizard](https://www.musicfestivalwizard.com/festival-month/december-2024/)
+---
 
 Þegar dagskrá og efni viðburða klárt þá þarf að huga að undirbúningi
 
