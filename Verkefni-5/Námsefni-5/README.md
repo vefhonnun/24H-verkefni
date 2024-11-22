@@ -62,9 +62,6 @@ heimild: [W3School Animation](https://www.w3schools.com/cssref/css3_pr_animation
 
 ---
 
-
----
-
 ### Sýnidæmi
 
 1. [Code pen](https://codepen.io/rokobuljan/pen/XXzqKQ)
