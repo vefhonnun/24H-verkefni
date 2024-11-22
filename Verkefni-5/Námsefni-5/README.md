@@ -38,6 +38,8 @@
 
 **Animation** is actually a shorthand for eight subproperties:
 
+` animation: name duration timing delay iteration direction fill play; `
+
 ```CSS
   /* @keyframes duration | easing-function | delay |
   iteration-count | direction | fill-mode | play-state | name */
@@ -51,8 +53,6 @@
     3s linear slide-in,
     3s ease-out 5s slide-out;
 ```
-
-`animation: name duration timing delay iteration direction fill play;`
 
 Note: for the shorthand to work properly, make sure you list the values in the same order as listed above.
 As you're using the shorthand, there's no need to list the subproperties – you just need to define the values you need. You don't need to use all of the subproperties, but animation-name and animation-duration are necessary for the CSS animation property to work as intended.
