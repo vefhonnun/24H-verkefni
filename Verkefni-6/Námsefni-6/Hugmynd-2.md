@@ -51,7 +51,15 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
 
 ---
 
-Þegar efni hefur verið valið  
+Þegar dagskrá og efni viðburða klárt þá þarf að huga að undirbúningi
+
+1. safna saman myndum, texta
+1. gera tengirit (_site map_)
+1. búa til flæðirit (_flow chart_)
+1. velja leturgerð og liti (_style tyle_)
+1. búa til frumgerð  (_prototype_)
+
+---
 
 ### [Dæmi um lokaverkefni unnin í VEFÞ2VH](https://vefhonnun.github.io/synidaemi/)
 
