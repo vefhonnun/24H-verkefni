@@ -29,11 +29,11 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
 
 ---
 
-1. Á vetrarsólstöðum ...
+1. Kynning: Á vetrarsólstöðum ...
 
-2. Á tónleikunum koma fram ...
+2. Lýsing: Á tónleikunum koma fram ...
 
-3. Hvar eru hverjir?
+3. Staðsetning: Hvar eru hverjir?
 
 4. Föstudagur 20. desember
     * Kl. 13.30: Hátíðin sett þegar sól er hæst á lofti. 
