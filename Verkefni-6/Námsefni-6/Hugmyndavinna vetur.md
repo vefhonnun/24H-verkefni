@@ -59,7 +59,7 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
 * [Music Festival Wizard](https://www.musicfestivalwizard.com/festival-month/december-2024/)
 ---
 
-Þegar dagskrá og efni viðburða klárt þá þarf að huga að undirbúningi
+Þegar dagskrá og efni viðburða er klárt þá þarf að huga að undirbúningi
 
 1. safna saman myndum, texta
 1. gera tengirit (_site map_)
