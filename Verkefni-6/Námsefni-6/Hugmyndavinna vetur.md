@@ -53,6 +53,7 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
 ### Viðmið
 
 * [Jingle-ball](https://www.iheart.com/jingle-ball/)
+* [Berg festival](https://www.berg-festival.com/)
 * [Music Festival Wizard](https://www.musicfestivalwizard.com/festival-month/december-2024/)
 ---
 
