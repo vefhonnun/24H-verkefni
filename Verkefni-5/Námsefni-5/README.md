@@ -48,6 +48,21 @@ heimild: [W3School Animation](https://www.w3schools.com/cssref/css3_pr_animation
 
 ---
 
+```CSS
+  /* @keyframes duration | easing-function | delay |
+  iteration-count | direction | fill-mode | play-state | name */
+  animation: 3s ease-in 1s 2 reverse both paused slide-in;
+  
+  /* @keyframes duration | easing-function | delay | name */
+  animation: 3s linear 1s slide-in;
+  
+  /* two animations */
+  animation:
+    3s linear slide-in,
+    3s ease-out 5s slide-out;
+```
+---
+
 ### Sýnidæmi
 
 1. [Code pen](https://codepen.io/rokobuljan/pen/XXzqKQ)
