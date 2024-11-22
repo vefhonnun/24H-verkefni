@@ -54,6 +54,7 @@ Efnisyfirlit, hvað þarf að koma fram á vefnum
 
 * [Jingle-ball](https://www.iheart.com/jingle-ball/)
 * [Berg festival](https://www.berg-festival.com/)
+* [Wild Horse Festival](https://www.wildhorsesfestival.com.au/festival)
 * [Music Festival Wizard](https://www.musicfestivalwizard.com/festival-month/december-2024/)
 ---
 
