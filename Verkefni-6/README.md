@@ -25,8 +25,12 @@
 
 ### Hugmyndavinna
 
-* Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni
-* [Dæmi um efni lokaverkefnis](Námsefni-6/Hugmyndavinna.md)
+* Það er gott ef nemandi hefur ákveðið hvaða umfjöllunarefni á að nota í lokaverkefninu áður en komið er að 6. verkefni.
+
+Hér eru viðmið/tillögur til að fara eftir 
+
+* [Sumarhátíð](Námsefni-6/Hugmyndavinna sumar.md)
+* [Vetrarhátíð](Námsefni-6/Hugmyndavinna%20vetur.md)
 
 ### Efnisöflun
 
