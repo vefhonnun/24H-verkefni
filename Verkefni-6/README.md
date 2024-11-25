@@ -29,7 +29,7 @@
 
 Hér eru viðmið/tillögur til að fara eftir 
 
-* [Sumarhátíð](Námsefni-6/Hugmyndavinna sumar.md)
+* [Sumarhátíð](Námsefni-6/Hugmyndavinna%20sumar.md)
 * [Vetrarhátíð](Námsefni-6/Hugmyndavinna%20vetur.md)
 
 ### Efnisöflun
